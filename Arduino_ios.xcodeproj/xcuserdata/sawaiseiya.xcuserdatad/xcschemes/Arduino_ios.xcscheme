@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B794DD9A1C964AD100547B8C"
-               BuildableName = "Arduino_iosTests.xctest"
+               BuildableName = "Arduino_ios.xctest"
                BlueprintName = "Arduino_iosTests"
                ReferencedContainer = "container:Arduino_ios.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B794DDA51C964AD100547B8C"
-               BuildableName = "Arduino_iosUITests.xctest"
+               BuildableName = "Arduino_ios.xctest"
                BlueprintName = "Arduino_iosUITests"
                ReferencedContainer = "container:Arduino_ios.xcodeproj">
             </BuildableReference>

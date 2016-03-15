@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/sawaiseiya/team &#x30a2;&#x30eb;&#x30c6;&#x3099;&#x30a3;&#x30ce;/Arduino_ios/Arduino_ios.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -7,13 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B7527A1B1C9680F1008C51D9 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7527A1A1C9680F1008C51D9 /* Weather.swift */; };
+		B7527A2E1C96DD7C008C51D9 /* 01d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A1C1C96DD7C008C51D9 /* 01d.png */; };
+		B7527A2F1C96DD7C008C51D9 /* 01n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A1D1C96DD7C008C51D9 /* 01n.png */; };
+		B7527A301C96DD7C008C51D9 /* 02d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A1E1C96DD7C008C51D9 /* 02d.png */; };
+		B7527A311C96DD7C008C51D9 /* 02n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A1F1C96DD7C008C51D9 /* 02n.png */; };
+		B7527A321C96DD7C008C51D9 /* 03d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A201C96DD7C008C51D9 /* 03d.png */; };
+		B7527A331C96DD7C008C51D9 /* 03n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A211C96DD7C008C51D9 /* 03n.png */; };
+		B7527A341C96DD7C008C51D9 /* 04d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A221C96DD7C008C51D9 /* 04d.png */; };
+		B7527A351C96DD7C008C51D9 /* 04n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A231C96DD7C008C51D9 /* 04n.png */; };
+		B7527A361C96DD7C008C51D9 /* 09d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A241C96DD7C008C51D9 /* 09d.png */; };
+		B7527A371C96DD7C008C51D9 /* 09n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A251C96DD7C008C51D9 /* 09n.png */; };
+		B7527A381C96DD7C008C51D9 /* 10d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A261C96DD7C008C51D9 /* 10d.png */; };
+		B7527A391C96DD7C008C51D9 /* 10n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A271C96DD7C008C51D9 /* 10n.png */; };
+		B7527A3A1C96DD7C008C51D9 /* 11d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A281C96DD7C008C51D9 /* 11d.png */; };
+		B7527A3B1C96DD7C008C51D9 /* 11n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A291C96DD7C008C51D9 /* 11n.png */; };
+		B7527A3C1C96DD7C008C51D9 /* 13d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A2A1C96DD7C008C51D9 /* 13d.png */; };
+		B7527A3D1C96DD7C008C51D9 /* 13n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A2B1C96DD7C008C51D9 /* 13n.png */; };
+		B7527A3E1C96DD7C008C51D9 /* 50d.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A2C1C96DD7C008C51D9 /* 50d.png */; };
+		B7527A3F1C96DD7C008C51D9 /* 50n.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A2D1C96DD7C008C51D9 /* 50n.png */; };
+		B7527A411C96DF80008C51D9 /* Sun.png in Resources */ = {isa = PBXBuildFile; fileRef = B7527A401C96DF80008C51D9 /* Sun.png */; };
+		B7527A481C984B8A008C51D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7527A471C984B8A008C51D9 /* Main.storyboard */; };
+		B7527A4A1C988F13008C51D9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7527A491C988F13008C51D9 /* SecondViewController.swift */; };
+		B7527A4C1C988FC5008C51D9 /* myCustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7527A4B1C988FC5008C51D9 /* myCustomButton.swift */; };
 		B794DD8B1C964AD100547B8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B794DD8A1C964AD100547B8C /* AppDelegate.swift */; };
 		B794DD8D1C964AD100547B8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B794DD8C1C964AD100547B8C /* ViewController.swift */; };
-		B794DD901C964AD100547B8C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B794DD8E1C964AD100547B8C /* Main.storyboard */; };
 		B794DD921C964AD100547B8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B794DD911C964AD100547B8C /* Assets.xcassets */; };
 		B794DD951C964AD100547B8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B794DD931C964AD100547B8C /* LaunchScreen.storyboard */; };
 		B794DDA01C964AD100547B8C /* Arduino_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B794DD9F1C964AD100547B8C /* Arduino_iosTests.swift */; };
 		B794DDAB1C964AD100547B8C /* Arduino_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B794DDAA1C964AD100547B8C /* Arduino_iosUITests.swift */; };
+		B794DDB91C964F6E00547B8C /* MyTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B794DDB81C964F6E00547B8C /* MyTabBarController.swift */; };
+		B794DDC11C9652C600547B8C /* Image1.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDBB1C9652C600547B8C /* Image1.png */; };
+		B794DDC21C9652C600547B8C /* Image2.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDBC1C9652C600547B8C /* Image2.png */; };
+		B794DDC31C9652C600547B8C /* Image3.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDBD1C9652C600547B8C /* Image3.png */; };
+		B794DDC41C9652C600547B8C /* Image4.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDBE1C9652C600547B8C /* Image4.png */; };
+		B794DDC51C9652C600547B8C /* Image5.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDBF1C9652C600547B8C /* Image5.png */; };
+		B794DDC61C9652C600547B8C /* スクリーンショット 2016-03-14 10.36.38.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDC01C9652C600547B8C /* スクリーンショット 2016-03-14 10.36.38.png */; };
+		B794DDCA1C96555000547B8C /* BackImg.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDC71C96555000547B8C /* BackImg.png */; };
+		B794DDCB1C96555000547B8C /* BackImg2.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDC81C96555000547B8C /* BackImg2.png */; };
+		B794DDCC1C96555000547B8C /* BackImg3.png in Resources */ = {isa = PBXBuildFile; fileRef = B794DDC91C96555000547B8C /* BackImg3.png */; };
+		B794DDD01C9673E300547B8C /* WeatherService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B794DDCF1C9673E300547B8C /* WeatherService.swift */; };
+		F884CF9C8DEA792EC760CE27 /* Pods_Arduino_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1CE4E189C05E48B5F4761C1 /* Pods_Arduino_ios.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,19 +68,55 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B7527A1A1C9680F1008C51D9 /* Weather.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		B7527A1C1C96DD7C008C51D9 /* 01d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01d.png; sourceTree = "<group>"; };
+		B7527A1D1C96DD7C008C51D9 /* 01n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01n.png; sourceTree = "<group>"; };
+		B7527A1E1C96DD7C008C51D9 /* 02d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02d.png; sourceTree = "<group>"; };
+		B7527A1F1C96DD7C008C51D9 /* 02n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02n.png; sourceTree = "<group>"; };
+		B7527A201C96DD7C008C51D9 /* 03d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03d.png; sourceTree = "<group>"; };
+		B7527A211C96DD7C008C51D9 /* 03n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03n.png; sourceTree = "<group>"; };
+		B7527A221C96DD7C008C51D9 /* 04d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 04d.png; sourceTree = "<group>"; };
+		B7527A231C96DD7C008C51D9 /* 04n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 04n.png; sourceTree = "<group>"; };
+		B7527A241C96DD7C008C51D9 /* 09d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 09d.png; sourceTree = "<group>"; };
+		B7527A251C96DD7C008C51D9 /* 09n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 09n.png; sourceTree = "<group>"; };
+		B7527A261C96DD7C008C51D9 /* 10d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10d.png; sourceTree = "<group>"; };
+		B7527A271C96DD7C008C51D9 /* 10n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10n.png; sourceTree = "<group>"; };
+		B7527A281C96DD7C008C51D9 /* 11d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11d.png; sourceTree = "<group>"; };
+		B7527A291C96DD7C008C51D9 /* 11n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11n.png; sourceTree = "<group>"; };
+		B7527A2A1C96DD7C008C51D9 /* 13d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13d.png; sourceTree = "<group>"; };
+		B7527A2B1C96DD7C008C51D9 /* 13n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13n.png; sourceTree = "<group>"; };
+		B7527A2C1C96DD7C008C51D9 /* 50d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50d.png; sourceTree = "<group>"; };
+		B7527A2D1C96DD7C008C51D9 /* 50n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50n.png; sourceTree = "<group>"; };
+		B7527A401C96DF80008C51D9 /* Sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sun.png; sourceTree = "<group>"; };
+		B7527A471C984B8A008C51D9 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B7527A491C988F13008C51D9 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B7527A4B1C988FC5008C51D9 /* myCustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myCustomButton.swift; sourceTree = "<group>"; };
 		B794DD871C964AD100547B8C /* Arduino_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Arduino_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B794DD8A1C964AD100547B8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B794DD8C1C964AD100547B8C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B794DD8F1C964AD100547B8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B794DD911C964AD100547B8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B794DD941C964AD100547B8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B794DD961C964AD100547B8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B794DD9B1C964AD100547B8C /* Arduino_iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Arduino_iosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B794DD9B1C964AD100547B8C /* Arduino_ios.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Arduino_ios.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B794DD9F1C964AD100547B8C /* Arduino_iosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arduino_iosTests.swift; sourceTree = "<group>"; };
 		B794DDA11C964AD100547B8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B794DDA61C964AD100547B8C /* Arduino_iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Arduino_iosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B794DDA61C964AD100547B8C /* Arduino_ios.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Arduino_ios.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B794DDAA1C964AD100547B8C /* Arduino_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arduino_iosUITests.swift; sourceTree = "<group>"; };
 		B794DDAC1C964AD100547B8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B794DDB81C964F6E00547B8C /* MyTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTabBarController.swift; sourceTree = "<group>"; };
+		B794DDBB1C9652C600547B8C /* Image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image1.png; sourceTree = "<group>"; };
+		B794DDBC1C9652C600547B8C /* Image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image2.png; sourceTree = "<group>"; };
+		B794DDBD1C9652C600547B8C /* Image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image3.png; sourceTree = "<group>"; };
+		B794DDBE1C9652C600547B8C /* Image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image4.png; sourceTree = "<group>"; };
+		B794DDBF1C9652C600547B8C /* Image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image5.png; sourceTree = "<group>"; };
+		B794DDC01C9652C600547B8C /* スクリーンショット 2016-03-14 10.36.38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2016-03-14 10.36.38.png"; sourceTree = "<group>"; };
+		B794DDC71C96555000547B8C /* BackImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackImg.png; sourceTree = "<group>"; };
+		B794DDC81C96555000547B8C /* BackImg2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackImg2.png; sourceTree = "<group>"; };
+		B794DDC91C96555000547B8C /* BackImg3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackImg3.png; sourceTree = "<group>"; };
+		B794DDCF1C9673E300547B8C /* WeatherService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherService.swift; sourceTree = "<group>"; };
+		C803A80CF309EF721AD1E96B /* Pods-Arduino_ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Arduino_ios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Arduino_ios/Pods-Arduino_ios.debug.xcconfig"; sourceTree = "<group>"; };
+		CC3051B5F3F536D4BE09C8A8 /* Pods-Arduino_ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Arduino_ios.release.xcconfig"; path = "Pods/Target Support Files/Pods-Arduino_ios/Pods-Arduino_ios.release.xcconfig"; sourceTree = "<group>"; };
+		D1CE4E189C05E48B5F4761C1 /* Pods_Arduino_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Arduino_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +124,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F884CF9C8DEA792EC760CE27 /* Pods_Arduino_ios.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +145,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		172ADB362B20631EA42FD02D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C803A80CF309EF721AD1E96B /* Pods-Arduino_ios.debug.xcconfig */,
+				CC3051B5F3F536D4BE09C8A8 /* Pods-Arduino_ios.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		B794DD7E1C964AD100547B8C = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +161,8 @@
 				B794DD9E1C964AD100547B8C /* Arduino_iosTests */,
 				B794DDA91C964AD100547B8C /* Arduino_iosUITests */,
 				B794DD881C964AD100547B8C /* Products */,
+				172ADB362B20631EA42FD02D /* Pods */,
+				D5EA217E40FB6842F79B581E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -88,8 +170,8 @@
 			isa = PBXGroup;
 			children = (
 				B794DD871C964AD100547B8C /* Arduino_ios.app */,
-				B794DD9B1C964AD100547B8C /* Arduino_iosTests.xctest */,
-				B794DDA61C964AD100547B8C /* Arduino_iosUITests.xctest */,
+				B794DD9B1C964AD100547B8C /* Arduino_ios.xctest */,
+				B794DDA61C964AD100547B8C /* Arduino_ios.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -97,9 +179,15 @@
 		B794DD891C964AD100547B8C /* Arduino_ios */ = {
 			isa = PBXGroup;
 			children = (
+				B794DDBA1C9652C600547B8C /* アーカイブ */,
 				B794DD8A1C964AD100547B8C /* AppDelegate.swift */,
+				B794DDCF1C9673E300547B8C /* WeatherService.swift */,
+				B7527A1A1C9680F1008C51D9 /* Weather.swift */,
 				B794DD8C1C964AD100547B8C /* ViewController.swift */,
-				B794DD8E1C964AD100547B8C /* Main.storyboard */,
+				B7527A491C988F13008C51D9 /* SecondViewController.swift */,
+				B7527A4B1C988FC5008C51D9 /* myCustomButton.swift */,
+				B794DDB81C964F6E00547B8C /* MyTabBarController.swift */,
+				B7527A471C984B8A008C51D9 /* Main.storyboard */,
 				B794DD911C964AD100547B8C /* Assets.xcassets */,
 				B794DD931C964AD100547B8C /* LaunchScreen.storyboard */,
 				B794DD961C964AD100547B8C /* Info.plist */,
@@ -125,6 +213,49 @@
 			path = Arduino_iosUITests;
 			sourceTree = "<group>";
 		};
+		B794DDBA1C9652C600547B8C /* アーカイブ */ = {
+			isa = PBXGroup;
+			children = (
+				B794DDBB1C9652C600547B8C /* Image1.png */,
+				B794DDBC1C9652C600547B8C /* Image2.png */,
+				B794DDBD1C9652C600547B8C /* Image3.png */,
+				B794DDBE1C9652C600547B8C /* Image4.png */,
+				B794DDBF1C9652C600547B8C /* Image5.png */,
+				B794DDC71C96555000547B8C /* BackImg.png */,
+				B794DDC81C96555000547B8C /* BackImg2.png */,
+				B794DDC91C96555000547B8C /* BackImg3.png */,
+				B794DDC01C9652C600547B8C /* スクリーンショット 2016-03-14 10.36.38.png */,
+				B7527A401C96DF80008C51D9 /* Sun.png */,
+				B7527A1C1C96DD7C008C51D9 /* 01d.png */,
+				B7527A1D1C96DD7C008C51D9 /* 01n.png */,
+				B7527A1E1C96DD7C008C51D9 /* 02d.png */,
+				B7527A1F1C96DD7C008C51D9 /* 02n.png */,
+				B7527A201C96DD7C008C51D9 /* 03d.png */,
+				B7527A211C96DD7C008C51D9 /* 03n.png */,
+				B7527A221C96DD7C008C51D9 /* 04d.png */,
+				B7527A231C96DD7C008C51D9 /* 04n.png */,
+				B7527A241C96DD7C008C51D9 /* 09d.png */,
+				B7527A251C96DD7C008C51D9 /* 09n.png */,
+				B7527A261C96DD7C008C51D9 /* 10d.png */,
+				B7527A271C96DD7C008C51D9 /* 10n.png */,
+				B7527A281C96DD7C008C51D9 /* 11d.png */,
+				B7527A291C96DD7C008C51D9 /* 11n.png */,
+				B7527A2A1C96DD7C008C51D9 /* 13d.png */,
+				B7527A2B1C96DD7C008C51D9 /* 13n.png */,
+				B7527A2C1C96DD7C008C51D9 /* 50d.png */,
+				B7527A2D1C96DD7C008C51D9 /* 50n.png */,
+			);
+			path = "アーカイブ";
+			sourceTree = "<group>";
+		};
+		D5EA217E40FB6842F79B581E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D1CE4E189C05E48B5F4761C1 /* Pods_Arduino_ios.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +263,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B794DDAF1C964AD100547B8C /* Build configuration list for PBXNativeTarget "Arduino_ios" */;
 			buildPhases = (
+				CD87ECD5DFE38551A5751927 /* Check Pods Manifest.lock */,
 				B794DD831C964AD100547B8C /* Sources */,
 				B794DD841C964AD100547B8C /* Frameworks */,
 				B794DD851C964AD100547B8C /* Resources */,
+				E9C2044B3A9E3CC2288B1A38 /* Embed Pods Frameworks */,
+				D7FDA1BB072243349C044C32 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -160,7 +294,7 @@
 			);
 			name = Arduino_iosTests;
 			productName = Arduino_iosTests;
-			productReference = B794DD9B1C964AD100547B8C /* Arduino_iosTests.xctest */;
+			productReference = B794DD9B1C964AD100547B8C /* Arduino_ios.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		B794DDA51C964AD100547B8C /* Arduino_iosUITests */ = {
@@ -178,7 +312,7 @@
 			);
 			name = Arduino_iosUITests;
 			productName = Arduino_iosUITests;
-			productReference = B794DDA61C964AD100547B8C /* Arduino_iosUITests.xctest */;
+			productReference = B794DDA61C964AD100547B8C /* Arduino_ios.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -193,6 +327,7 @@
 				TargetAttributes = {
 					B794DD861C964AD100547B8C = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 882MTU5N5N;
 					};
 					B794DD9A1C964AD100547B8C = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -229,9 +364,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7527A3D1C96DD7C008C51D9 /* 13n.png in Resources */,
+				B7527A3B1C96DD7C008C51D9 /* 11n.png in Resources */,
+				B7527A351C96DD7C008C51D9 /* 04n.png in Resources */,
+				B7527A3F1C96DD7C008C51D9 /* 50n.png in Resources */,
+				B794DDCC1C96555000547B8C /* BackImg3.png in Resources */,
+				B7527A3A1C96DD7C008C51D9 /* 11d.png in Resources */,
+				B794DDCA1C96555000547B8C /* BackImg.png in Resources */,
+				B794DDC21C9652C600547B8C /* Image2.png in Resources */,
+				B7527A331C96DD7C008C51D9 /* 03n.png in Resources */,
+				B794DDC41C9652C600547B8C /* Image4.png in Resources */,
 				B794DD951C964AD100547B8C /* LaunchScreen.storyboard in Resources */,
+				B7527A341C96DD7C008C51D9 /* 04d.png in Resources */,
+				B7527A2E1C96DD7C008C51D9 /* 01d.png in Resources */,
+				B7527A3E1C96DD7C008C51D9 /* 50d.png in Resources */,
+				B7527A391C96DD7C008C51D9 /* 10n.png in Resources */,
+				B7527A3C1C96DD7C008C51D9 /* 13d.png in Resources */,
+				B7527A321C96DD7C008C51D9 /* 03d.png in Resources */,
+				B794DDC11C9652C600547B8C /* Image1.png in Resources */,
+				B7527A2F1C96DD7C008C51D9 /* 01n.png in Resources */,
+				B7527A361C96DD7C008C51D9 /* 09d.png in Resources */,
 				B794DD921C964AD100547B8C /* Assets.xcassets in Resources */,
-				B794DD901C964AD100547B8C /* Main.storyboard in Resources */,
+				B7527A301C96DD7C008C51D9 /* 02d.png in Resources */,
+				B7527A311C96DD7C008C51D9 /* 02n.png in Resources */,
+				B794DDC51C9652C600547B8C /* Image5.png in Resources */,
+				B7527A371C96DD7C008C51D9 /* 09n.png in Resources */,
+				B794DDCB1C96555000547B8C /* BackImg2.png in Resources */,
+				B7527A481C984B8A008C51D9 /* Main.storyboard in Resources */,
+				B794DDC31C9652C600547B8C /* Image3.png in Resources */,
+				B7527A381C96DD7C008C51D9 /* 10d.png in Resources */,
+				B794DDC61C9652C600547B8C /* スクリーンショット 2016-03-14 10.36.38.png in Resources */,
+				B7527A411C96DF80008C51D9 /* Sun.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,13 +414,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		CD87ECD5DFE38551A5751927 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D7FDA1BB072243349C044C32 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Arduino_ios/Pods-Arduino_ios-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E9C2044B3A9E3CC2288B1A38 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Arduino_ios/Pods-Arduino_ios-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		B794DD831C964AD100547B8C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7527A4C1C988FC5008C51D9 /* myCustomButton.swift in Sources */,
+				B7527A4A1C988F13008C51D9 /* SecondViewController.swift in Sources */,
+				B794DDD01C9673E300547B8C /* WeatherService.swift in Sources */,
 				B794DD8D1C964AD100547B8C /* ViewController.swift in Sources */,
 				B794DD8B1C964AD100547B8C /* AppDelegate.swift in Sources */,
+				B794DDB91C964F6E00547B8C /* MyTabBarController.swift in Sources */,
+				B7527A1B1C9680F1008C51D9 /* Weather.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,14 +509,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		B794DD8E1C964AD100547B8C /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B794DD8F1C964AD100547B8C /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		B794DD931C964AD100547B8C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -395,23 +603,29 @@
 		};
 		B794DDB01C964AD100547B8C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C803A80CF309EF721AD1E96B /* Pods-Arduino_ios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Arduino_ios/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.seiya.Arduino-ios";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Arduino_ios;
 			};
 			name = Debug;
 		};
 		B794DDB11C964AD100547B8C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC3051B5F3F536D4BE09C8A8 /* Pods-Arduino_ios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Arduino_ios/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.seiya.Arduino-ios";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Arduino_ios;
 			};
 			name = Release;
 		};
@@ -422,7 +636,7 @@
 				INFOPLIST_FILE = Arduino_iosTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.seiya.Arduino-iosTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Arduino_ios;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Arduino_ios.app/Arduino_ios";
 			};
 			name = Debug;
@@ -434,7 +648,7 @@
 				INFOPLIST_FILE = Arduino_iosTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.seiya.Arduino-iosTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Arduino_ios;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Arduino_ios.app/Arduino_ios";
 			};
 			name = Release;
@@ -445,7 +659,7 @@
 				INFOPLIST_FILE = Arduino_iosUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.seiya.Arduino-iosUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Arduino_ios;
 				TEST_TARGET_NAME = Arduino_ios;
 				USES_XCTRUNNER = YES;
 			};
@@ -457,7 +671,7 @@
 				INFOPLIST_FILE = Arduino_iosUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.seiya.Arduino-iosUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Arduino_ios;
 				TEST_TARGET_NAME = Arduino_ios;
 				USES_XCTRUNNER = YES;
 			};
@@ -482,6 +696,7 @@
 				B794DDB11C964AD100547B8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B794DDB21C964AD100547B8C /* Build configuration list for PBXNativeTarget "Arduino_iosTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +705,7 @@
 				B794DDB41C964AD100547B8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B794DDB51C964AD100547B8C /* Build configuration list for PBXNativeTarget "Arduino_iosUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +714,7 @@
 				B794DDB71C964AD100547B8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
